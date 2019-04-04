@@ -1,0 +1,234 @@
+{
+  "homes": [
+    {
+      "homeTitleOne": "AN ASPIRING WEB DEVELOPER",
+      "homeTitleTwo": "& WEB DESIGNER",
+      "objectiveOne": "Seeking for a wide range of knowledge about Web Development and Web Designing. Improving skills on Graphic Designs and",
+      "objectiveTwo": "to be able to expand the mastery of being a full stack web developer. Also, searching for a Web Developer job on an IT",
+      "objectiveThree": "company that allows and accept the implementation of my own skills."
+    }
+  ],
+  "services": [
+    {
+      "serviceImage": "assets/resources/images/services/Website Development.png",
+      "serviceTitle": "Web Designing",
+      "serviceDescription": "Building websites from scratch using latest frameworks including responsiveness that can be used through phones, tablets and desktop.",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "serviceImage": "assets/resources/images/services/Graphic Design.png",
+      "serviceTitle": "Graphic Designing",
+      "serviceDescription": "Creating designs that is a enchancement of satisfaction to client and improving the look of the projects or publications."
+    },
+    {
+      "serviceImage": "assets/resources/images/services/SEO Specialist Blue.png",
+      "serviceTitle": "Search Engine Optimization",
+      "serviceDescription": "Creating SEO friendly websites that are visible to search engines and increase the traffic of the website with the help of SEO tactics.",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "serviceImage": "assets/resources/images/services/Web Hosting.png",
+      "serviceTitle": "Web Hosting",
+      "serviceDescription": "Making website accessible via the World Wide Web and giving client/s the file transfer protocol access together with their SQL databases."
+    },
+    {
+      "serviceImage": "assets/resources/images/services/UI&UX Design.png",
+      "serviceTitle": "UI & UX Designing",
+      "serviceDescription": "Having the ability to create exceptional websites and designs that are a satisfaction to the client/s or to the user.",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "serviceImage": "assets/resources/images/services/Mobile Development.png",
+      "serviceTitle": "Mobile App Development",
+      "serviceDescription": "Creating dynamic web application that can be also downloaded and used in mobile devices with the use of ionic framework."
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "skillName": "HTML 5"
+    },
+    {
+      "skillName": "CSS 3",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "skillName": "Javascript"
+    },
+    {
+      "id": 4,
+      "skillName": "PHP 7"
+    },
+    {
+      "id": 5,
+      "skillName": "C#"
+    },
+    {
+      "id": 6,
+      "skillName": "NodeJS"
+    },
+    {
+      "id": 7,
+      "skillName": "SQL"
+    },
+    {
+      "id": 8,
+      "skillName": "Angular"
+    },
+    {
+      "id": 9,
+      "skillName": "Bootstrap"
+    },
+    {
+      "id": 10,
+      "skillName": "jQuery"
+    },
+    {
+      "id": 11,
+      "skillName": "Photoshop"
+    },
+    {
+      "id": 12,
+      "skillName": "Premiere"
+    }
+  ],
+  "works": [
+    {
+      "id": 1,
+      "projectImage": "assets/resources/images/projects/websites/HeartHavenHospital.png",
+      "projectName": "Heart Haven Hospital",
+      "projectMadeOf": "HTML 5, CSS 3, Javascipt, Bootstrap 3, PHP",
+      "projectDescription": "A project made from WEBTECH3 subject where the Heart Haven Hospital uses a system for the hospital to record the appointment of each patient and the access of different users as well as the doctors and the admin with the use of CRUD mechanics.",
+      "projectLink": "http://hearthavenhospital.marlapuz.com/"
+    },
+    {
+      "id": 2,
+      "projectImage": "assets/resources/images/projects/websites/GigaGames.png",
+      "projectName": "GigaGames",
+      "projectMadeOf": "HTML 5, CSS 3, Javascipt, Bootstrap 3, PHP",
+      "projectDescription": "Came from the project of WEBDTOOLS using Wordpress but now has a new version as a e-commerce website for the project in WEBTECH4. GigaGames is all about selling games online in different platforms like Nintendo3DS, XBOX, PS3, and PS4.",
+      "projectLink": "http://www.gigagames.xyz/"
+    },
+    {
+      "id": 3,
+      "projectImage": "assets/resources/images/projects/websites/SigloBarbershop.png",
+      "projectName": "Siglo Barbershop",
+      "projectMadeOf": "HTML 5, CSS 3, Javascipt, Bootstrap 3, PHP",
+      "projectDescription": "A minimalist website created by Mar Lapuz, Arlan Cabuso and Shernon Severino. Siglo Barbershop is a classic barbershop in pampanga where it serves with kindness and the cleanest haircuts. It is different from the other barbershops, visit Siglo Barbers now to see why.",
+      "projectLink": "http://www.siglobarbers.com/"
+    },
+    {
+      "id": 4,
+      "projectImage": "assets/resources/images/projects/websites/PatatapClone.png",
+      "projectName": "Patatap Clone",
+      "projectMadeOf": "HTML 5, CSS 3, Javascipt, PaperJS, HowlerJS",
+      "projectDescription": "A website that is cloned to Patatap which produces sounds/beat on every keypress. Letters from A to Z and even the spacebar has their own beat. Other people can play with it and make them a beginner on being a DJ. Note that this website can only be played in desktops or laptops.",
+      "projectLink": "http://www.marlapuz.com/petmalu/"
+    },
+    {
+      "projectImage": "assets/resources/images/projects/websites/LapuzPortfolio.png",
+      "projectName": "Online Portfolio",
+      "projectMadeOf": "HTML 5, CSS3, Boostrap 4, Angular 4, TypeScript",
+      "projectDescription": "This website was made for personal use that include my works, skills, information about me and also how people will contact me with the use of the internet. This website was made with my own capabilities and understanding on being a Web Developer.",
+      "projectLink": "https:/marlapuz.github.io/marlapuz",
+      "id": 5
+    }
+  ],
+  "others": [
+    {
+      "id": 1,
+      "projectImage": "assets/resources/images/projects/others/Logo Design.png",
+      "projectName": "Logo Designs",
+      "projectMadeOf": "Adobe Photoshop, Adobe Illustrator",
+      "projectDescription": "Personal Logo with my initials made with Adobe Photoshop and Illustrator. These logos express my personality and what I do. Personal Logo must be unique in a way that it will be your own mark as a designer."
+    },
+    {
+      "projectImage": "assets/resources/images/projects/others/publication.png",
+      "projectName": "Publication Designs",
+      "projectMadeOf": "Adobe Photoshop, Adobe Illustrator",
+      "projectDescription": "Different types of business cards, invitations, and envelope designs created with Adobe Photoshop and Illustrator. I create contents to boost it advertisement and design to the public.",
+      "id": 2
+    }
+  ],
+  "accomplishments": [
+    {
+      "id": 1,
+      "title": "Making responsive and dynamic website from scratch for a certain business/organizations"
+    },
+    {
+      "id": 2,
+      "title": "Web Host Administrator"
+    },
+    {
+      "id": 3,
+      "title": "Attended seminars related to my specialization to learn more about the web development"
+    },
+    {
+      "id": 4,
+      "title": "Search Engine Optimization Specialist"
+    },
+    {
+      "id": 5,
+      "title": "TORO IT Elite Challenge Qualifier Front-End Category 2017"
+    }
+  ],
+  "seminars": [
+    {
+      "id": 1,
+      "title": "Advanced CSS using Bootstrap 3 Framework 2016"
+    },
+    {
+      "id": 2,
+      "title": "Understanding PHP and Database 2016"
+    },
+    {
+      "id": 3,
+      "title": "Bootstrap 4 2017"
+    },
+    {
+      "id": 4,
+      "title": "Angular JS 2017"
+    },
+    {
+      "id": 5,
+      "title": "SEO: Increase Web Traffic and Visibility in Search Engines 2017"
+    },
+    {
+      "id": 6,
+      "title": "AwSome Day Technical Seminar 2017"
+    }
+  ],
+  "certificates": [
+    {
+      "id": 1,
+      "title": "Cisco Networking Academy IT Essentials Certificate, 2nd Semester A.Y.2015-2016"
+    },
+    {
+      "id": 2,
+      "title": "Certificate of Membership (Code Geeks), HAU, 1st and 2nd year 1st Semester A.Y.2015-2018"
+    },
+    {
+      "id": 3,
+      "title": "Certificate of Achievement, TORO Inter-School IT Elite Challenge 2017"
+    },
+    {
+      "id": 4,
+      "title": "AWS Educate Certificate 2017"
+    },
+    {
+      "id": 5,
+      "title": "Certificate of Recognition, Dean's Lister 3rd year 1st Semester A.Y.2017"
+    }
+  ],
+  "admin": [
+    {
+      "username": "marlapuz",
+      "password": "advntr222",
+      "id": 1
+    }
+  ]
+}
